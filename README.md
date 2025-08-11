@@ -25,7 +25,7 @@
   <li>Desenvolvido de forma muito simples e semântico</li>
   <li>float e clear: both utilizado</li>
   <li>article, aside e fieldset utilizado</li>
-  <li>:hover utilizado</li>
+  <li>:hover utilizado, :hover com underline</li>
   <li>Adicionando mapa de localização e video na página</li>
   <li>normalize.css utilizado</li>
 </ul>
