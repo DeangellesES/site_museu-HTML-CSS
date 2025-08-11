@@ -22,10 +22,10 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Desenvolvido de forma muito simples apenas com divs</li>
-  <li>Utilizando a entidade &copy;todos os direitos reservados</li>
+  <li>Desenvolvido de forma muito simples e semântico</li>
   <li>float e clear: both utilizado</li>
-  <li>Manipulação de Backgound</li>
+  <li>article, aside e fieldset utilizado</li>
   <li>:hover utilizado</li>
-  <li>text-ident -9000 utilizado</li>
+  <li>Adicionando mapa de localização e video na página</li>
+  <li>normalize.css utilizado</li>
 </ul>
